@@ -43,14 +43,14 @@ Busco adquirir conhecimentos sólidos atraves da minha graduação, com Bootcamp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" />
 </div>
 
-## Estou aprendendo
+## Estou aprendendo 🧠
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
 </div>
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub 📊
 <div>
 <a href="https://github.com/Matheus-mt10">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-mt10&layout=compact&langs_count=7&theme=dracula"/> 
@@ -58,7 +58,7 @@ Busco adquirir conhecimentos sólidos atraves da minha graduação, com Bootcamp
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-mt10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+## Contatos 📲
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
