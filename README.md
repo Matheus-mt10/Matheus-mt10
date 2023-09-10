@@ -1,9 +1,9 @@
 # Olá, eu sou o Matheus! 👋
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack. Estudante de Análise e desenvolvimento de sistemas, Atualmente trabalhando com a área de ensino atuando como instrutor de tecnologia. 
+Sou desenvolvedor full-stack. Estudante de Análise e desenvolvimento de sistemas, Atualmente trabalhando com a área de ensino atuando como instrutor de tecnologia. 
 
-Busco adquirir conhecimentos sólidos atraves da minha graduação, com Bootcamps, cursos gratuitos ou mesmo conversando com profissionais que já estão na área paara trocar informações e experiencias 
+Busco adquirir conhecimentos sólidos atraves da minha graduação, com Bootcamps, cursos gratuitos ou mesmo conversando com profissionais que já estão na área para trocar informações e experiencias 
 
 
 ## Resuminho...
